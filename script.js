@@ -132,4 +132,3 @@ window.addEventListener('touchstart', e => etch(e));
 
 createSquares(100)
 clear();
-drawHellow();
